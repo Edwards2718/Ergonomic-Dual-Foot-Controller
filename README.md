@@ -18,7 +18,7 @@ So, what I wanted in a foot controller was:
 
 My testing concluded that, at least for me, only the big toes have enough dexterity to effectively operate pedals. I tried out multiple 4-pedal toe-controlled designs but all toes seem to move together to some degree, creating issues with accidental pedal presses.
 
-I found a great reference model with the Adafruit Three Button Foot Switch and based my design off it, but it had its own issues:
+I found a great reference model with the [Adafruit Three Button Foot Switch](https://learn.adafruit.com/three-button-foot-switch/overview) and based my design off it, but it had its own issues:
 - The snap-on hinges felt too flimsy and wobbly. I added long machine screws for a more stable, reliable pedal.
 - The pedal design wasn’t ergonomic enough.
 
