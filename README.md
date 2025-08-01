@@ -1,5 +1,6 @@
 # Ergonomic Dual Foot Controller
 
+<img width="1280" height="516" alt="2" src="https://github.com/user-attachments/assets/6b9a65df-eadc-4eec-9b1b-cc86766881a2" />
 <img width="1074" height="351" alt="Internals" src="https://github.com/user-attachments/assets/932aea83-4cef-4d4b-b426-e637dd4aabc4" />
 
 The key features I wanted for this foot controller were ergonomics and performance. That means that I wanted a controller that would not fatigue the legs and feet throughout its use and have very responsive controls, whether for gaming or work use. I have issues with what’s available on the market since those pedals are stiff, have very large press-travel, and some you have to hover your foot to avoid activating the switch. My idea was to have something akin to having a hand, resting on a table, pressing a mouse button.
