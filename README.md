@@ -32,7 +32,7 @@ As for software, it's a simple two button controller so choose any option you li
 
 I’ve used this controller for FPS games for sliding and jumping and it works great. I hope it’ll help someone else not just for gaming but for people with hand disabilities who can use it for mouse left click and right click.
 
-Parts List
+## Parts List
 - Two 12x12x4.3mm Tactile Switches 
   - B3F-4000 (OF: 130 gf): link
   - PTS125SM43-2 LFS (OF: 180 gf): link
