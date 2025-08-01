@@ -37,18 +37,18 @@ I’ve used this controller for FPS games for sliding and jumping and it works g
 
 ## Parts List
 - Two 12x12x4.3mm Tactile Switches 
-  - B3F-4000 (OF: 130 gf): link
-  - PTS125SM43-2 LFS (OF: 180 gf): link
-  - B3W-4000 (OF: 200 gf): link
-  - B3F-4005 (OF: 260 gf): link (The one I used)
-  - B3W-4005 (OF: 350 gf): link
-- 2 x 8 cm perfboard: link
-- cSeao 20-Set 304 Stainless Steel M3x80mm Phillips Pan Head Machine Screws with M3 Nuts: link
-- Micro USB Male to Micro USB Female Extension Panel Mount Type Cable with Screws, Data+Charge,Black 50CM/1.6FT: link
-- Velcro to mount the microcontroller: link
-- 1mm Rubber Gasket: link
-- uxcell knurled Insert Nuts, 60Pcs M3 x 6mm L x 5mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Insert Embedment Nut: link
-- AINOPE Micro USB Cable 6.6ft USB to Micro USB Charger Cable Right Angle: link
+  - B3F-4000 (OF: 130 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-4000/63961)
+  - PTS125SM43-2 LFS (OF: 180 gf): [link](https://www.digikey.com/en/products/detail/c-k/PTS125SM43-2-LFS/1146743)
+  - B3W-4000 (OF: 200 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3W-4000/31780)
+  - B3F-4005 (OF: 260 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-4005/20679) (The one I used)
+  - B3W-4005 (OF: 350 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3W-4005/368404)
+- 2 x 8 cm perfboard: [link](https://www.amazon.com/dp/B07Y3GMWD9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1)
+- cSeao 20-Set 304 Stainless Steel M3x80mm Phillips Pan Head Machine Screws with M3 Nuts: [link](https://www.amazon.com/gp/product/B07D4KMW47/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+- Micro USB Male to Micro USB Female Extension Panel Mount Type Cable with Screws, Data+Charge,Black 50CM/1.6FT: [link](https://www.amazon.com/gp/product/B07DJB7ZFV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- Velcro to mount the microcontroller: [link](https://www.amazon.com/VELCRO-Brand-Fasteners-Industrial-VEL-30703-USA/dp/B09BNPX3XJ?crid=22WDORFD48PX&dib=eyJ2IjoiMSJ9.6P0m0RfMJFEWBiqtTsrMbYhd2FDMmycihfXly0lk9wCfrd6YHS3PPqA4TZwgo76cMr_srcihzwctbhHLwbTkBO45XFZhQlAcXVNpt4epqf7HRENuXFcPO09pytYnZVSgq_aR5xMfiFuo0pUbaEpG8eC31tPty_lJrkjjWrUtrBfK2yBkmLKilujCSLAPztMOEknfQnD1lRRjoMrOr12XevjlQbzBhFp2Hhx-FoAN6pM.vHi_gN894NLd6jCdeLinPm37dUyH48G4GSz67TxEQGk&dib_tag=se&keywords=velcro&qid=1732865486&sprefix=velcro%2Caps%2C193&sr=8-1)
+- 1mm Rubber Gasket: [link](https://www.amazon.com/gp/product/B0C9Y7DVDN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- uxcell knurled Insert Nuts, 60Pcs M3 x 6mm L x 5mm OD 3D Printing Brass Nuts Female Threaded Inserts Brass Heat Set Insert Embedment Nut: [link](https://www.amazon.com/gp/product/B09MCXH78P/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- AINOPE Micro USB Cable 6.6ft USB to Micro USB Charger Cable Right Angle: [link](https://www.amazon.com/dp/B0BTH4NZ8M?ref=ppx_yo2ov_dt_b_fed_asin_title)
 - Pro Micro
 - Four M3-0.5 x 12mm Countersunk Flat Head Phillips Machine Screws
-- Gorilla 2 Part Epoxy, Clear Epoxy: link
+- Gorilla 2 Part Epoxy, Clear Epoxy: [link](https://www.amazon.com/Gorilla-Epoxy-Minute-ounce-Syringe/dp/B001Z3C3AG?th=1)
