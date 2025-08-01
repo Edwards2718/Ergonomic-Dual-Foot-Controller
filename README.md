@@ -1,5 +1,6 @@
 # Ergonomic Dual Foot Controller
-
+<img width="1159" height="679" alt="1" src="https://github.com/user-attachments/assets/b061340f-652e-4ea7-b0b8-1a71fb33d658" />
+<img width="1058" height="674" alt="3" src="https://github.com/user-attachments/assets/920d171a-d41f-4c15-8e72-dcb9f11a3db4" />
 <img width="1280" height="516" alt="2" src="https://github.com/user-attachments/assets/6b9a65df-eadc-4eec-9b1b-cc86766881a2" />
 <img width="1074" height="351" alt="Internals" src="https://github.com/user-attachments/assets/932aea83-4cef-4d4b-b426-e637dd4aabc4" />
 
