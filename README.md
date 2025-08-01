@@ -34,6 +34,8 @@ I would recommend editing the controller’s width, height, and choosing a tacti
 
 As for software, it's a simple two button controller so choose any option you like: QMK/Arduino/Etc. You can even use the microcontroller and code from the [Adafuit build guide](https://learn.adafruit.com/three-button-foot-switch/overview) (though that one is USB-C, not Micro-USB). I used QMK.
 
+The image shows how I lay my toes on the controller. I had socks on but I think it's easier to operate it without them.
+
 I’ve used this controller for FPS games for sliding and jumping and it works great. I hope it’ll help someone else not just for gaming but for people with hand disabilities who can use it for mouse left click and right click.
 
 ## Parts List
