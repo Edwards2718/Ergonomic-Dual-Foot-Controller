@@ -30,7 +30,7 @@ So now the design for this foot controller comes down to
 
 The solution I came up with was 12x12x4.3mm tactile switches. You can find them in a variety of operating forces (130 gf to 350 gf) on Digikey. The switch has very low travel (0.3mm), very tactile and audible click, and has a high enough OF where you can rest your toes on the pedal and not activate it. You can mount the switch on 2cm wide perboard, just remember to cut off the bottom plastic pins so it can be flush with the board. 
 
-I would recommend editing the controller’s width, height, and choosing a tactile switch by operating force to fit your needs. Print one side of the controller to test out and adjust accordingly.
+I would recommend editing the controller’s width, height, and choosing a tactile switch by operating force to fit your needs. The goal here is minimal exertion: You twitch your toe, it activates the switch, you relax your toe, it releases the switch. Print one side of the controller to test out and adjust accordingly.
 
 As for software, it's a simple two button controller so choose any option you like: QMK/Arduino/Etc. You can even use the microcontroller and code from the [Adafuit build guide](https://learn.adafruit.com/three-button-foot-switch/overview) (though that one is USB-C, not Micro-USB). I used QMK.
 
