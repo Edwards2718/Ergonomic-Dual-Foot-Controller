@@ -45,7 +45,7 @@ I’ve used this controller for FPS games for sliding and jumping and it works g
   - B3W-4000 (OF: 200 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3W-4000/31780)
   - B3F-4005 (OF: 260 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3F-4005/20679) (The one I used)
   - B3W-4005 (OF: 350 gf): [link](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3W-4005/368404)
-- 2 x 8 cm perfboard: [link](https://www.amazon.com/dp/B07Y3GMWD9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1)
+- 2 x 8 cm perfboard: [link]([https://www.amazon.com/dp/B07Y3GMWD9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1](https://www.amazon.com/Prototype-Paper-Double-Universal-Board/dp/B017LB3Q10))
 - cSeao 20-Set 304 Stainless Steel M3x80mm Phillips Pan Head Machine Screws with M3 Nuts: [link](https://www.amazon.com/gp/product/B07D4KMW47/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - Micro USB Male to Micro USB Female Extension Panel Mount Type Cable with Screws, Data+Charge,Black 50CM/1.6FT: [link](https://www.amazon.com/gp/product/B07DJB7ZFV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - Velcro to mount the microcontroller: [link](https://www.amazon.com/VELCRO-Brand-Fasteners-Industrial-VEL-30703-USA/dp/B09BNPX3XJ?crid=22WDORFD48PX&dib=eyJ2IjoiMSJ9.6P0m0RfMJFEWBiqtTsrMbYhd2FDMmycihfXly0lk9wCfrd6YHS3PPqA4TZwgo76cMr_srcihzwctbhHLwbTkBO45XFZhQlAcXVNpt4epqf7HRENuXFcPO09pytYnZVSgq_aR5xMfiFuo0pUbaEpG8eC31tPty_lJrkjjWrUtrBfK2yBkmLKilujCSLAPztMOEknfQnD1lRRjoMrOr12XevjlQbzBhFp2Hhx-FoAN6pM.vHi_gN894NLd6jCdeLinPm37dUyH48G4GSz67TxEQGk&dib_tag=se&keywords=velcro&qid=1732865486&sprefix=velcro%2Caps%2C193&sr=8-1)
