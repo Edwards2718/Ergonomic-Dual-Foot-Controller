@@ -34,7 +34,7 @@ I would recommend editing the controller’s width, height, and choosing a tacti
 
 As for software, it's a simple two button controller so choose any option you like: QMK/Arduino/Etc. You can even use the microcontroller and code from the [Adafuit build guide](https://learn.adafruit.com/three-button-foot-switch/overview) (though that one is USB-C, not Micro-USB). I used QMK.
 
-The image shows how I lay my toes on the controller. I had socks on but I think it's easier to operate it without them.
+The image shows how I lay my toes on the controller. I had socks on but I think it's easier to operate it without them. However, you may still want to use socks or place the controller on a carpet to avoid developing a callous on the part of the floor your foot is laying on. But since I feel that the controller is best operated when it is on solid floor instead of carpet, what you can do is get a small carpet, cut out the shape of the controller, adjust the model's base height to compensate, and place the controller on the carpet cutout.
 
 I’ve used this controller for FPS games for sliding and jumping and it works great. I hope it’ll help someone else not just for gaming but for people with hand disabilities who can use it for mouse left click and right click.
 
